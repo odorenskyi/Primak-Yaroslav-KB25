@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1775053184 source:c:\users\0608a\desktop\bmtp-lab8-primak\prj\task8_2\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<iomanip>
+	"ModulesYroslav.h"
+
+1775047074 c:\users\0608a\desktop\bmtp-lab8-primak\prj\modulesyroslav\modulesyroslav.h
+
