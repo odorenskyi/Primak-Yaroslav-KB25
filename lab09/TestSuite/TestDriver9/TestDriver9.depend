@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1776267961 source:c:\users\0608a\desktop\ë\primak-yaroslav-kb25\lab09\testsuite\testdriver9\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"ModulesYroslav.h"
+
+1776264679 c:\users\0608a\desktop\bmtp-lab8-primak\prj\modulesyroslav\modulesyroslav.h
+
