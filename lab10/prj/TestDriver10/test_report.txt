@@ -1,0 +1,14 @@
+=== ПРОТОКОЛ ТЕСТУВАННЯ МОДУЛІВ ЛАБ 10 ===
+
+--- Тестування Задачi 10.1 ---
+Test ID: 1.1 | Status: PASSED | Details: Файл створено, данi записано.
+
+--- Тестування Задачi 10.2 ---
+Test ID: 2.1 | Status: PASSED | Details: Додано державнi символи та мiтку часу.
+
+--- Тестування Задачi 10.3 ---
+Test ID: 3.1 | Status: PASSED | Details: x=2, b=13 - записано у файл.
+Test ID: 3.2 | Status: PASSED | Details: x=1, b=16 - записано у файл.
+Test ID: 3.3 | Status: PASSED | Details: x=3, b=255 - записано у файл.
+
+Тестування завершено.
