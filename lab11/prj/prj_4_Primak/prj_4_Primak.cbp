@@ -36,6 +36,8 @@
 		<Unit filename="Modules_Bureiko.h" />
 		<Unit filename="Modules_Primak.cpp" />
 		<Unit filename="Modules_Primak.h" />
+		<Unit filename="Modules_Rudenko.cpp" />
+		<Unit filename="Modules_Rudenko.h" />
 		<Unit filename="main.cpp" />
 		<Unit filename="struct_type_project_4.h" />
 		<Extensions>
