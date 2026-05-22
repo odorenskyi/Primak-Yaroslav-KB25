@@ -29,3 +29,10 @@
 	<cstring>
 	"Modules_Rudenko.h"
 
+1779476375 source:c:\users\0608a\desktop\11\primak-yaroslav-kb25\lab11\prj\prj_4_primak\modules_primak.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	<string>
+	"Modules_Primak.h"
+
