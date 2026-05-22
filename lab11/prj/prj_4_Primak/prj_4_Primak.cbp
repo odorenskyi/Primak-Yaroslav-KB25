@@ -32,6 +32,8 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Modules_Bureiko.cpp" />
+		<Unit filename="Modules_Bureiko.h" />
 		<Unit filename="Modules_Primak.cpp" />
 		<Unit filename="Modules_Primak.h" />
 		<Unit filename="main.cpp" />
