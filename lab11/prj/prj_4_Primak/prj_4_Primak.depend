@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1779475890 source:c:\users\0608a\desktop\11\primak-yaroslav-kb25\lab11\prj\prj_4_primak\main.cpp
+	<iostream>
+	<Windows.h>
+	"struct_type_project_4.h"
+	"Modules_Primak.h"
+	"Modules_Bureiko.h"
+	"Modules_Rudenko.h"
+
+1779472528 c:\users\0608a\desktop\11\primak-yaroslav-kb25\lab11\prj\prj_4_primak\struct_type_project_4.h
+
+1779472536 c:\users\0608a\desktop\11\primak-yaroslav-kb25\lab11\prj\prj_4_primak\modules_primak.h
+	"struct_type_project_4.h"
+
+1779472528 c:\users\0608a\desktop\11\primak-yaroslav-kb25\lab11\prj\prj_4_primak\modules_bureiko.h
+	"struct_type_project_4.h"
+
+1779472528 c:\users\0608a\desktop\11\primak-yaroslav-kb25\lab11\prj\prj_4_primak\modules_rudenko.h
+	"struct_type_project_4.h"
+
+1779472528 source:c:\users\0608a\desktop\11\primak-yaroslav-kb25\lab11\prj\prj_4_primak\modules_bureiko.cpp
+	<iostream>
+	<cstring>
+	"Modules_Bureiko.h"
+
+1779472528 source:c:\users\0608a\desktop\11\primak-yaroslav-kb25\lab11\prj\prj_4_primak\modules_rudenko.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	"Modules_Rudenko.h"
+
