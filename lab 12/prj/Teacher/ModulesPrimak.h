@@ -11,17 +11,17 @@
 // Клас Кулі
 class ClassLab12_Primak {
 private:
-    double radius;
+    double radius; // інкапсуляція
 
 public:
-    ClassLab12_Primak(double r = 1.0);
-    void setRadius(double r);
-    double getRadius() const;
-    double calculateSurfaceArea() const;
+    ClassLab12_Primak(double r = 1.0);   // Конструктор
+    void setRadius(double r);            // Сетер
+    double getRadius() const;            // Гетер
+    double calculateSurfaceArea() const; // Метод обчислення площі
 };
 
 // Реалізація методів ПОЗА тілом класу з inline
-inline ClassLab12_Primak::ClassLab12_Primak(double r) {
+inline ClassLab12_Primak::ClassLab12_Primak(double r) { // Виправлено: прибрано зайвий пробіл перед ::
     setRadius(r);
 }
 
