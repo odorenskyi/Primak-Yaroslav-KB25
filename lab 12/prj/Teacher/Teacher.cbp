@@ -33,7 +33,7 @@
 		<Compiler>
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
-			<Add directory="C:/Users/0608a/Desktop/c[/Primak-Yaroslav-KB25/lab 12/prj/Teacher/" />
+			<Add directory="../Teacher" />
 		</Compiler>
 		<Unit filename="main.cpp" />
 		<Extensions>

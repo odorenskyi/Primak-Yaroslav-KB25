@@ -8,7 +8,6 @@
 #define M_PI 3.14159265358979323846
 #endif
 
-// Клас Кулі
 class ClassLab12_Primak {
 private:
     double radius;
@@ -20,7 +19,6 @@ public:
     double calculateSurfaceArea() const;
 };
 
-// Реалізація методів ПОЗА тілом класу з inline
 inline ClassLab12_Primak::ClassLab12_Primak(double r) {
     setRadius(r);
 }

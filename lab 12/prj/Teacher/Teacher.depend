@@ -1,10 +1,13 @@
 # depslib dependency file v1.0
-1779894804 source:c:\users\0608a\desktop\c[\primak-yaroslav-kb25\lab 12\prj\teacher\main.cpp
+1779895629 source:c:\users\0608a\desktop\c[\primak-yaroslav-kb25\lab 12\prj\teacher\main.cpp
 	<iostream>
 	<fstream>
 	<string>
+	<sstream>
+	<cmath>
 	<chrono>
 	<thread>
+	<windows.h>
 	"../ModulesPrimak.h"
 
 1779894574 c:\users\0608a\desktop\c[\primak-yaroslav-kb25\lab 12\prj\modulesprimak.h
